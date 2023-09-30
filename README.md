@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eduardonascimentojf&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=eduardonascimentojf&show_icons=true&theme=dark&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonascimentojf&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack:
